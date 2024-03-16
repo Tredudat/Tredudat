@@ -35,6 +35,7 @@
   <a href="https://stackoverflow.com/users/21747984/stoked-dobby" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href='https://dev.to/tredudat' target="_blank"><img alt='DEV' src='https://img.shields.io/badge/DEV-100000?style=for-the-badge&logo=DEV&logoColor=white&labelColor=black&color=black'/></a>
 </div>
 
 ###
