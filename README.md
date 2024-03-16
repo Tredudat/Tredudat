@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <!--
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
