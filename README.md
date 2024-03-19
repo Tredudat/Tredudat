@@ -38,7 +38,10 @@
   <a href='https://dev.to/tredudat' target="_blank"><img alt='DEV' src='https://img.shields.io/badge/DEV-100000?style=for-the-badge&logo=DEV&logoColor=white&labelColor=black&color=black'/></a>
 </div>
 
+<!-- snake-start -->
 ![snake gif](https://github.com/Tredudat/Tredudat/blob/output/github-contribution-grid-snake.gif)
+<!-- snake-end -->
+
 
 
 
