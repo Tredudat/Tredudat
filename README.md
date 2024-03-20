@@ -2,11 +2,23 @@
 
 <h2 align="left"></h2>
 
-###
+![](https://komarev.com/ghpvc/?username=tredudat&color=brightgreen)
+
+- 🎓 Aspiring software engineer, currently mastering the ABCs of coding.
+- 🛹 Skateboarder with a knack for tech.
+- 📘 Sci-fi buff and tech blog devourer.
+- 🎯 2024 Goal: Master Python and enhance my front-end skills.
+- 🎙️ Brewing a podcast at tskatestech.com.
+- 💡 Fun Fact: Still figuring out why 0.1 + 0.2 doesn’t equal 0.3 in JavaScript!
+
+---
+
+### Wizard Gif
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tb21kdmlxcjgxZWVxZjJ3ZzRkcXE4am45MDhwcXFmOXBqam1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3YIbnTjjxiOCQnK/giphy.gif"  />
 
-###
+---
+### Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -22,7 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+---
+
+### Connect With Me:
 
 <div align="left">
   <a href="trent@tskatestech.com" target="_blank">
@@ -37,6 +51,24 @@
   <a href='https://dev.to/tredudat' target="_blank"><img alt='DEV' src='https://img.shields.io/badge/DEV-100000?style=for-the-badge&logo=DEV&logoColor=white&labelColor=black&color=black'/></a>
 </div>
 
+---
+
+### My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tredudat&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Trenton Henderson's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tredudat&theme=nightowl" alt="Tredudat" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tredudat&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+
+---
 
 
-###
+
