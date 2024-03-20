@@ -2,7 +2,7 @@
 
 <h2 align="left"></h2>
 
-![Trent's Profile Views](https://komarev.com/ghpvc/?username=tredudat&color=brightorange)
+![Trent's Profile Views](https://komarev.com/ghpvc/?username=tredudat&color=orange)
 
 - 🎓 Aspiring software engineer, currently mastering the ABCs of coding.
 - 🛹 Skateboarder with a knack for tech.
