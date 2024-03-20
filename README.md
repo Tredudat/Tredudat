@@ -13,8 +13,6 @@
 
 ---
 
-### Wizard Gif
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tb21kdmlxcjgxZWVxZjJ3ZzRkcXE4am45MDhwcXFmOXBqam1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3YIbnTjjxiOCQnK/giphy.gif"  />
 
 ---
@@ -69,6 +67,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tredudat&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
+
+
 
 
 
