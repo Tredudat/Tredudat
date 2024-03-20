@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Expletus+Sans&size=21&pause=1000&color=FF9111&background=40FFFA00&random=false&width=435&lines=Howdy!+%F0%9F%A4%A0%F0%9F%A4%98%F0%9F%8F%BC;I'm+Trent+Henderson..+%F0%9F%A7%99%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+profile.+I'm+new+here+%F0%9F%86%95%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
 ![Header](./github-header-image.png)
 
 <h2 align="left"></h2>
