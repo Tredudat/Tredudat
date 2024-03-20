@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Expletus+Sans&size=21&pause=1000&color=FF9111&background=40FFFA00&center=true&random=false&width=435&lines=Welcome+to+my+profile.+I'm+new+here+%F0%9F%86%95%E2%9C%94%EF%B8%8F;https%3A%2F%2Fwww.tskatestech.com%2F+%F0%9F%95%B8%EF%B8%8F;Why+don't+eggs+tell+jokes.%3F+%F0%9F%A5%9A;They+might+crack+up!+%F0%9F%90%A3%F0%9F%98%9B)](https://git.io/typing-svg)
+
 
 <h2 align="left"></h2>
 
