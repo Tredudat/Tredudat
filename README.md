@@ -52,14 +52,11 @@
 
 ---
 
-### My Github Stats:
+### Github Stats 📈
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tredudat&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Trenton Henderson's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tredudat&theme=nightowl" alt="Tredudat" />
-</p>
+![Trent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tredudat&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Tredudat&theme=gruvbox&border_radius=4.5) -->
 
 ---
 
