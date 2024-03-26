@@ -37,6 +37,9 @@
 ### Connect With Me:
 
 <div align="left">
+   <a href="https://tryhackme.com/p/tredudat" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tredudat.png" alt="TryHackMe">
+   </a>
   <a href="trent@tskatestech.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -47,9 +50,6 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href='https://dev.to/tredudat' target="_blank"><img alt='DEV' src='https://img.shields.io/badge/DEV-100000?style=for-the-badge&logo=DEV&logoColor=white&labelColor=black&color=black'/></a>
- <a href="https://tryhackme.com/p/tredudat" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/tredudat.png" alt="TryHackMe">
- </a>
 </div>
 
 ---
