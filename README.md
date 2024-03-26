@@ -48,7 +48,7 @@
   </a>
   <a href='https://dev.to/tredudat' target="_blank"><img alt='DEV' src='https://img.shields.io/badge/DEV-100000?style=for-the-badge&logo=DEV&logoColor=white&labelColor=black&color=black'/></a>
  <a href="https://tryhackme.com/p/tredudat" target="_blank">
-   <img src="https://tryhackme.com/badge/2936182" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tredudat.png" alt="TryHackMe">
  </a>
 </div>
 
