@@ -4,12 +4,6 @@
 
 ![Trent's Profile Views](https://komarev.com/ghpvc/?username=tredudat&color=orange)
 
-- 🎓 Aspiring software engineer, currently mastering the ABCs of coding.
-- 🛹 Skateboarder with a knack for tech.
-- 📘 Sci-fi buff and tech blog devourer.
-- 🎯 2024 Goal: Master Python and enhance my front-end skills.
-- 🎙️ Brewing a podcast at tskatestech.com.
-- 💡 Fun Fact: Still figuring out why 0.1 + 0.2 doesn’t equal 0.3 in JavaScript!
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tb21kdmlxcjgxZWVxZjJ3ZzRkcXE4am45MDhwcXFmOXBqam1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3YIbnTjjxiOCQnK/giphy.gif"  />
 
