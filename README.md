@@ -4,10 +4,6 @@
 
 ![Trent's Profile Views](https://komarev.com/ghpvc/?username=tredudat&color=orange)
 
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tb21kdmlxcjgxZWVxZjJ3ZzRkcXE4am45MDhwcXFmOXBqam1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3YIbnTjjxiOCQnK/giphy.gif"  />
-
-
 ---
 
 ### Connect With Me:
